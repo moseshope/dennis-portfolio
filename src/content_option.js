@@ -1,3 +1,11 @@
+import img1 from './assets/images/s1.png';
+import img2 from './assets/images/s2.png';
+import img3 from './assets/images/s3.png';
+import img4 from './assets/images/s4.png';
+import img5 from './assets/images/s5.png';
+import img6 from './assets/images/s6.png';
+import banner from './assets/images/web_dev.webp';
+
 const logotext = "Dennis.Y";
 const meta = {
     title: "Dennis.Y",
@@ -14,7 +22,7 @@ const introdata = {
     description: "Innovative, task-driven professional with 8+ years of experience in web design and development across diverse industries." +  
                  "nEquipped with a recode of success in consistently identifying and providing the technological needs of companies through ingenious innovation."+
                  "Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: banner,
 };
 
 const dataabout = {
@@ -38,14 +46,7 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
+const skills = [
     {
         name: "PHP",
         value: 100,
@@ -64,7 +65,7 @@ const skills = [{
     },
     {
         name: "Angular",
-        value: 98,
+        value: 100,
     },
     {
         name: "Jquery",
@@ -75,12 +76,28 @@ const skills = [{
         value: 100,
     },
     {
+        name: "Python",
+        value: 95,
+    },
+    {
+        name: "Djano",
+        value: 95,
+    },
+    {
+        name: "Laravel",
+        value: 95,
+    },
+    {
+        name: "Shopify",
+        value: 95,
+    },
+    {
         name: "MySQL",
-        value: 100,
+        value: 95,
     },
     {
         name: "PostgreSQL",
-        value: 100,
+        value: 95,
     },
     {
         name: "Github",
@@ -94,14 +111,7 @@ const skills = [{
         name: "Trello",
         value: 100,
     },
-    {
-        name: "Laravel",
-        value: 95,
-    },
-    {
-        name: "Shopify",
-        value: 95,
-    },
+    
 ];
 
 const services = [{
@@ -119,59 +129,53 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img1,
+        desctiption: "Spots TV site (Vue.js / Nuxt.js / Node.js / Amazon webservice / Ngnix)",
+        link: "https://www.sporttv.pt/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img2,
+        desctiption: "Japanese Cosmetic Business potal (React / Core.js / Amazon webservice)",
+        link: "https://corp.shiseido.com/report/en/2021/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img3,
+        desctiption: "Adachi - Online Restaurant (Wordpress / JQuery / MySQL / Flywheel / Google Analytics)",
+        link: "https://adachirestaurant.com/gallery/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img4,
+        desctiption: "Swedish Scooter & Byke market (Shopify)",
+        link: "https://eltrastore.se/",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img5,
+        desctiption: "Hotel CRM (Wordpress / Vue.js / MySQL / MailChimp)",
+        link: "https://www.theviewfromtheshard.com/",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: img6,
+        desctiption: "Czech Flight booking service (Angular 8 / Node.js / Express.js / Hammer.js)",
+        link: "https://www.letuska.cz/",
     },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "hello.dennis0102@gmail.com",
     YOUR_FONE: "+1 905-282-6789",
-    description: "You can send at any time you want on work days",
+    description: "You can send at any time you want at work days",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
+    github: "https://github.com/Red199612",
+    // facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    // twitter: "https://twitter.com",
+    // youtube: "https://youtube.com",
+    // twitch: "https://twitch.com",
 };
 export {
     meta,
