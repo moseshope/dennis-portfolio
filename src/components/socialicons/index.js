@@ -8,6 +8,8 @@ import {
   FaYoutube,
   FaTwitch,
 } from "react-icons/fa";
+import { FcManager } from "react-icons/fc";
+
 import { socialprofils } from "../../content_option";
 
 export const Socialicons = (params) => {
@@ -53,6 +55,13 @@ export const Socialicons = (params) => {
           <li>
             <a href={socialprofils.twitch}>
               <FaTwitch />
+            </a>
+          </li>
+        )}
+        {socialprofils.fcManager && (
+          <li>
+            <a href={socialprofils.fcManager}>
+              <FcManager />
             </a>
           </li>
         )}

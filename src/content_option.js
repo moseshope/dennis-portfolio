@@ -5,6 +5,7 @@ import img4 from './assets/images/s4.png';
 import img5 from './assets/images/s5.png';
 import img6 from './assets/images/s6.png';
 import banner from './assets/images/illustration-magoz-feature.gif';
+import avata from './assets/images/dennis.jpg';
 
 const logotext = "Dennis.Y";
 const meta = {
@@ -23,6 +24,7 @@ const introdata = {
                  "nEquipped with a recode of success in consistently identifying and providing the technological needs of companies through ingenious innovation."+
                  "Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.",
     your_img_url: banner,
+    your_avata_url: avata,
 };
 
 const dataabout = {
@@ -175,7 +177,8 @@ const socialprofils = {
     // linkedin: "https://linkedin.com",
     // twitter: "https://twitter.com",
     // youtube: "https://youtube.com",
-    twitch: "https://drive.google.com/file/d/1Yq8Bzm7p1ImgzE-vEbvdUrUIcEUX3Zx_/view?usp=sharing",
+    // twitch: "https://twitch.com",
+    fcManager: "https://drive.google.com/file/d/1Yq8Bzm7p1ImgzE-vEbvdUrUIcEUX3Zx_/view?usp=sharing",
 };
 export {
     meta,
