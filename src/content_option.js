@@ -4,7 +4,7 @@ import img3 from './assets/images/s3.png';
 import img4 from './assets/images/s4.png';
 import img5 from './assets/images/s5.png';
 import img6 from './assets/images/s6.png';
-import banner from './assets/images/web_dev.webp';
+import banner from './assets/images/illustration-magoz-feature.gif';
 
 const logotext = "Dennis.Y";
 const meta = {
