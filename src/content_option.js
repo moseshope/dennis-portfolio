@@ -172,10 +172,10 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/Red199612",
     // facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    // linkedin: "https://linkedin.com",
     // twitter: "https://twitter.com",
     // youtube: "https://youtube.com",
-    // twitch: "https://twitch.com",
+    twitch: "https://drive.google.com/file/d/1Yq8Bzm7p1ImgzE-vEbvdUrUIcEUX3Zx_/view?usp=sharing",
 };
 export {
     meta,
