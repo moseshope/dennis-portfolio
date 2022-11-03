@@ -4,7 +4,7 @@ import img3 from './assets/images/s3.png';
 import img4 from './assets/images/s4.png';
 import img5 from './assets/images/s5.png';
 import img6 from './assets/images/s6.png';
-import banner from './assets/images/illustration-magoz-feature.gif';
+import banner from './assets/images/web_dev.webp';
 import avata from './assets/images/dennis.jpg';
 
 const logotext = "Dennis.Y";
@@ -163,22 +163,24 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "hello.dennis0102@gmail.com",
-    YOUR_FONE: "+1 905-282-6789",
-    description: "You can send at any time you want at work days",
+    YOUR_EMAIL: "lucky.dennis.dev@gmail.com",
+    YOUR_FONE: "+1 390 555 9993",
+    description: "Contact to me at anytime you want",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com/Red199612",
+    github: "https://github.com/dennisYun12",
     // facebook: "https://facebook.com",
     // linkedin: "https://linkedin.com",
     // twitter: "https://twitter.com",
     // youtube: "https://youtube.com",
     // twitch: "https://twitch.com",
-    fcManager: "https://drive.google.com/file/d/1Yq8Bzm7p1ImgzE-vEbvdUrUIcEUX3Zx_/view?usp=sharing",
+    discord: "lucky.dennis#7718",
+    fcManager: "https://drive.google.com/file/d/1JzoFoMZPCDFy-DDnypwXbDaStJ04amH3/view?usp=sharing",
+    
 };
 export {
     meta,
