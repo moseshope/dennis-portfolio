@@ -1,9 +1,9 @@
-import img1 from './assets/images/s1.png';
-import img2 from './assets/images/s2.png';
-import img3 from './assets/images/s3.png';
-import img4 from './assets/images/s4.png';
-import img5 from './assets/images/s5.png';
-import img6 from './assets/images/s6.png';
+import img1 from './assets/images/s1.jpg';
+import img2 from './assets/images/s2.jpg';
+import img3 from './assets/images/s3.jpg';
+import img4 from './assets/images/s4.jpg';
+import img5 from './assets/images/s5.jpg';
+import img6 from './assets/images/s6.jpg';
 import banner from './assets/images/web_dev.webp';
 import avata from './assets/images/dennis.jpg';
 
